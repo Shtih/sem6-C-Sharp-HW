@@ -1,0 +1,5 @@
+/Users/juliashtih/Documents/C#/Sem6 C#/lec4-2/obj/Debug/net7.0/lec4-2.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem6 C#/lec4-2/obj/Debug/net7.0/lec4-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem6 C#/lec4-2/obj/Debug/net7.0/lec4-2.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem6 C#/lec4-2/obj/Debug/net7.0/lec4-2.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem6 C#/lec4-2/obj/Debug/net7.0/lec4-2.csproj.CoreCompileInputs.cache
